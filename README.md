@@ -247,11 +247,18 @@ By merging **statistical modeling** with **machine learning**, this work bridges
 
 📄 Details in  : [raed_paper_comments.md](./raed_paper_comments.md)
 
-## Effective Calibration of GARCH(1,1) with Neural Networks
+## A summary of a corrected approach:
+📄 Document in  : [Our_Approach_EN.pdf](./pdf/Our_Approach_EN.pdf)
+
+## Effective Calibration of GARCH(1,1) based on Raed Ideas and comparaison with Clerk- Savelli approach
 
 📄 Study in  : [Calibrate_Paper.md](./Clerk_Savelev/Calibrate_Paper.md)
 
 ---
+## Effective Calibration of GARCH(1,1), using advanced concepts
+
+📄 Study in  : [Neural_GARCH_Calibrations.md](./Neural_GARCH_Calibrations.md)
+
 
 ## Conclusion
 The study concludes that neural networks are a promising tool for GARCH calibration, handling complex moment conditions and irregular optimization landscapes more effectively than conventional solvers, and offering practical advantages for financial modeling tasks such as volatility forecasting and implied volatility estimation.
